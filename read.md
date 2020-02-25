@@ -1,11 +1,11 @@
 
-# Project one
+# Project Title
 
 ![license](https://img.shields.io/badge/license-MIT-green.svg)
 
 # Description
 
-nothing
+Amazing App
 
 
 ## Table of Contents 
@@ -30,12 +30,12 @@ nothing
 To install necessary dependencies, run the following command:
 
 ```
-npm i
+npm i 
 ```
 
 ## Usage
 
-nothing
+Nothing
 
 ## License
 
@@ -43,7 +43,7 @@ This project is licensed under the MIT license
 
 ## Contributing
 
-nothing
+Nothing
 
 ## Tests
 

@@ -1,5 +1,4 @@
 var fs = require("fs");
-require('dotenv').config()
 var inquirer = require("inquirer");
 var api = require('./utils/api');
 var generateMarkdown = require('./utils/generateMarkdown');

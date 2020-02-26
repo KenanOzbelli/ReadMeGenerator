@@ -1,0 +1,21 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "Description: A read me generator by answering questions it will generate a personal read me",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenanbeast/ReadMeGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenanbeast/ReadMeGenerator/issues"
+  },
+  "homepage": "https://github.com/kenanbeast/ReadMeGenerator#readme"
+}
